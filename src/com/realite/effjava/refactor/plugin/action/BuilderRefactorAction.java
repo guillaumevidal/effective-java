@@ -1,6 +1,6 @@
-package com.amundi.effjava.refactor.plugin.action;
+package com.realite.effjava.refactor.plugin.action;
 
-import com.amundi.effjava.refactor.plugin.ui.FieldListDialog;
+import com.realite.effjava.refactor.plugin.ui.FieldListDialog;
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.actionSystem.LangDataKeys;

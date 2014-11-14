@@ -1,4 +1,4 @@
-package com.amundi.effjava.refactor.plugin.ui;
+package com.realite.effjava.refactor.plugin.ui;
 
 import javax.swing.*;
 

@@ -28,7 +28,7 @@
 
   <actions>
     <!-- Add your actions here -->
-    <action id="builder-refactor" class="com.amundi.effjava.refactor.plugin.action.BuilderRefactorAction"
+    <action id="builder-refactor" class="com.realite.effjava.refactor.plugin.action.BuilderRefactorAction"
             text="Builder Refactor" description="Builder pattern refactoring">
       <add-to-group group-id="RefactoringMenu4" anchor="after" relative-to-action="ReplaceConstructorWithBuilder"/>
     </action>
