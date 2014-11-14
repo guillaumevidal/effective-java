@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings
+.svn
+target
+work
+tmp
+/bin
+
+#Android
+/gen
+local.properties
+
+# IntelliJ
+.idea
+*.iml
